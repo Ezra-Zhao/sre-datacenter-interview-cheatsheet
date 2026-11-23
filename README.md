@@ -1,5 +1,7 @@
 # SRE / Data Center Interview Cheatsheet
 
+> 📚 **合集版**：这张表已收进旗舰合集 [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) —— 100 张速查表在一个仓库里，欢迎去合集点 ⭐。
+
 ## 中文
 
 SRE 与数据中心运维面试速查表，覆盖 Linux、网络、机房运维、Kubernetes、on-call 事件响应、Prometheus 监控与 10 个线上真实排障场景。
